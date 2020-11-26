@@ -7,7 +7,7 @@
     * [Project Goals](#project-goals)
     * [Webite Owner Goals](#website-owner-goals)
     * [User Goals](#user-goals)
-    * [Design Thoughts]
+    * [Design Thoughts](#design-thoughts)
     * [Requirements and Expectations](#requirements-and-expectations)
     * [Features & Functionalities](#features-&-functionalities)
     
@@ -19,6 +19,8 @@
 ### Website Owner Goals
 
 ### User Goals 
+
+### Design Thoughts
 
 ### Requirements and Expectations
 
