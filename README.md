@@ -7,6 +7,7 @@
     * [Project Goals](#project-goals)
     * [Webite Owner Goals](#website-owner-goals)
     * [User Goals](#user-goals)
+    * [User Stories](#user-stories)
     * [Design Thoughts](#design-thoughts)
     * [Requirements and Expectations](#requirements-and-expectations)
     * [Features & Functionalities](#features-&-functionalities)
@@ -29,7 +30,15 @@
     
 ### User Goals 
 ---
-
+### User Stories ###
+   As an Alfa Romeo fan and a **user** I would like:
+   * I **want** to **navigate** quickly and easily.
+   * I **want** to see **colours** that the car can be configured with.
+   * I **want** to know what type of **chassis** does the car have.
+   * I **want** facts and relative details.
+   * I **want** a **video/review** about the car.
+   * I may **need** to **contact** to ask for help on the car. 
+---
 ### Design Thoughts
 ---
 When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be famillar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also famillar. I intend on giving the website an Alfa Romeo feel.
