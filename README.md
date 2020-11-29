@@ -24,9 +24,10 @@
  * Lightweight but good quality images maybe use webp for speed.
 ### Website Owner Goals
 ---
- * To show and display responsive and well organised and commented code.
+ * To **show** and display responsive and well organised and commented code.
  * Demonstrate Bootstrap skills.
  * Demonstrate native CSS skills.
+ * To **communicate** to users about the story of the 4C and why it is different from modern day sports cars.
     
 ### User Goals 
  * **Research** and **find information** about facts and colours the car can be configured with.
@@ -54,8 +55,14 @@ When thinking about the **design** choices for this website I decided that going
 * I plan on using **1B2441** for the footer background to give some more Alfa Romeo feel with **#FFFFFF** to stand out.
 ![Website Colour Scheme](/wireframes/Alfa4CColourScheme.png "Website Colour Scheme Image")
 #### Website Font Choices
-
+The font's that I picked are becazuse I feel like they have a modern and sleeck feel and will look right with the colours I have picked with the website. When implementing these font's I may find that they aren't what I want and could be subject to change. For boyd text and links I have picked [Dosis](https://fonts.google.com/specimen/Dosis) and for headings I chose [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed)
 ### Requirements and Expectations
+
+#### Requirements
+---
+
+#### Expectations
+---
 
 ### Features & Functionalities
 
