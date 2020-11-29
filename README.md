@@ -29,6 +29,10 @@
  * Demonstrate native CSS skills.
     
 ### User Goals 
+ * **Research** and **find information** about facts and colours the car can be configured with.
+ * **find** a video which can be used to give an entertaining honest review on the car.
+ * **find** copyright free images and make sure they're of the right size page speed isn't effected and also credit the photographer within the project.
+ * **Contact** site owner by submitting a form with input fields to capture contact reason we have to put validation on the fields to stop spam.
 ---
 ### User Stories ###
    As an Alfa Romeo fan and a **user** I would like:
@@ -41,7 +45,11 @@
 ---
 ### Design Thoughts
 ---
-When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be famillar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also famillar. I intend on giving the website an Alfa Romeo feel.
+When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be famillar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also famillar I picked this through [Google Fonts](https://fonts.google.com/) for my font choices see [here](#website-font-choices) . I intend on giving the website an Alfa Romeo feel.
+
+#### Alfa Romeo Hex Colours:
+
+#### Website Font Choices
 
 ### Requirements and Expectations
 
