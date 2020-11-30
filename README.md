@@ -60,7 +60,11 @@ The font's that I picked are becazuse I feel like they have a modern and sleeck 
 
 #### Requirements
 ---
-
+* As the **Site owner** browse the website through the sicky header with ease.
+* As the **Site owner** have facts and figures.
+* As the **Site owner** have good quality and lightweight images.
+* As the **Site owner** present a way to contact through a form.
+* As the **Site owner** to include a video and review.
 #### Expectations
 ---
 
