@@ -65,9 +65,16 @@ The font's that I picked are becazuse I feel like they have a modern and sleeck 
 * As the **Site owner** have good quality and lightweight images.
 * As the **Site owner** present a way to contact through a form.
 * As the **Site owner** to include a video and review.
+* As the **Site Owner** include the 4C brochure.
 #### Expectations
 ---
+* Relevant facts and figures and not that have the option to go into more depth with a read me button.
+* Easy intuitive navigation and design.
+* A responsive website for mobile devices, desktop and tablet.
+* Contact form fields work and have validate correctly.
+* 4C Brochure opens in a new tab.
 
 ### Features & Functionalities
+
 
 ### Wireframes
