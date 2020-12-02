@@ -75,6 +75,14 @@ The font's that I picked are becazuse I feel like they have a modern and sleeck 
 * 4C Brochure opens in a new tab.
 
 ### Features & Functionalities
-
+* Sticky Header/Navbar scrolls with you.
+* Navbar link icons.
+* Parallax image.
+* Short hero video which is just a plain image to save load times on mobile.
+* Interactive mobile menu through Hamburger icon.
+* Footer with menu links and social links
+* Image with text section and button
+* Telephone button
+* About Us Page
 
 ### Wireframes
