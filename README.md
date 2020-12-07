@@ -86,3 +86,13 @@ The font's that I picked are because I feel like they have a modern and sleeck f
 * About Us Page
 
 ### Wireframes
+
+I decided to use [Balsamiq Wireframes](https://balsamiq.com/) as the wireframing tool for my project this is because of the simplistic but easy to use software allows for wireframing projects quickly and easily. It offers a selection of icons which are great for demonstrating how the project would look on smaller screens. There are other software out there which can be used for Wireframing such as Adobe XD, Wireframe.cc and more. I decided to use Balsamiq on this project.
+
+I should note as these are just wireframes that the final project may look different.
+
+To see all my wireframes they are [here.](/wireframes/)
+
+Here is the Home page wireframe:
+
+![Wireframes](/wireframes/Desktop_Home.png)
