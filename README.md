@@ -11,8 +11,8 @@
     * [User Stories](#user-stories)
     * [Design Thoughts](#design-thoughts)
     * [Requirements and Expectations](#requirements-and-expectations)
-    * [Features & Functionalities](#features-&-functionalities)
-    * [Dependencies, Languages and Resources](#dependencies,-languages-and-resources)
+    * [Features & Functionalities](#features--functionalities)
+    * [Dependencies, Languages and Resources](#dependencies-languages-and-resources)
     
 ## **User Experience (UX)** 
 ### Project Goals
