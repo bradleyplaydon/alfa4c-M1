@@ -11,7 +11,8 @@
     * [User Stories](#user-stories)
     * [Design Thoughts](#design-thoughts)
     * [Requirements and Expectations](#requirements-and-expectations)
-    * [Features & Functionalities](#features-&-functionalities)
+    * [Features & Functionalities](#features--functionalities)
+    * [Dependencies, Languages and Resources](#dependencies-languages-and-resources)
     
 ## **User Experience (UX)** 
 ### Project Goals
@@ -82,6 +83,26 @@ The font's that I picked are because I feel like they have a modern and sleeck f
 * Image with text section and button
 * Telephone button
 * About Us Page
+### Dependencies, languages and resources
+---
+I will update this area as I add or remove dependecies from my project, these are what I plan to use.
+#### Dependencies
+* Google Fonts (Chosen Fonts from here)
+* Boostrap (Quick and easy to use framework which helps create a responsive website)
+
+#### Languages/Softwares
+* HTML
+* CSS
+* JS
+* JQuery
+* Popper
+* Git
+#### Resources
+* Balsamiq Wireframes
+* Canva
+* Unsplash (For uncopyrighted imagery)
+* W3 Schools
+* Slack
 ### Wireframes
 ---
 I decided to use [Balsamiq Wireframes](https://balsamiq.com/) as the wireframing tool for my project this is because of the simplistic but easy to use software allows for wireframing projects quickly and easily. It offers a selection of icons which are great for demonstrating how the project would look on smaller screens. There are other software out there which can be used for Wireframing such as Adobe XD, Wireframe.cc and more. I decided to use Balsamiq on this project.
@@ -93,3 +114,4 @@ To see all my wireframes they are [here.](/wireframes/)
 Here is the Home page wireframe:
 
 ![Wireframes](/wireframes/Desktop_Home.png)
+
