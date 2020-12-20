@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Barlow+Condensed:wght@400&display=swap');
+/* CSS Variables for elements we may want to change in the future to make it easy to update the whole site. */
+:root {
+    --default-font-size: 15px;
+    --text-font-size: 15px;
+    --font-family: Dosis, Arial, Helvetica, sans-serif;
+    --font-color: #3a3a3a;
+    --heading-font-family: Barlow-Condensed, Arial, Helvetica, sans-serif;
+    --heading-font-weight: 800;
+    --heading-font-color: #C22636;
+    --footer-font-color: #FFFFFF;
+    --footer-bg-color: #1B2441;
+}
+* {
+  box-sizing: border-box;
+}
