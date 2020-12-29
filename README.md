@@ -115,3 +115,7 @@ Here is the Home page wireframe:
 
 ![Wireframes](/wireframes/Desktop_Home.png)
 
+### Testing
+---
+I have only doing a small amount of testing so far but I have used Chrome Dev Tools alot by using the elements tab and mobile button to see how the header has interacted with mobile. I have opted to have two headers one that shows on Desktop and one which will show on mobile.
+
