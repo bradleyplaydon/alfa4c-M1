@@ -21,7 +21,10 @@
 h1.heading {
     font-family: var(--heading-font-family);
 }
-
+.heading a {
+  color: var(--heading-font-color);
+  text-decoration: none;
+}
 /* header nav links */
 a.nav-item {
   color: var(--font-color);
