@@ -11,6 +11,7 @@
     --heading-font-color: #C22636;
     --footer-font-color: #FFFFFF;
     --footer-bg-color: #1B2441;
+    --icon-color: #C22636;
 }
 
 * {
@@ -19,12 +20,14 @@
 
 /* Headings */
 h1.heading {
-    font-family: var(--heading-font-family);
+  font-family: var(--heading-font-family);
 }
+
 .heading a {
   color: var(--heading-font-color);
   text-decoration: none;
 }
+
 /* header nav links */
 a.nav-item {
   color: var(--font-color);
@@ -35,7 +38,17 @@ a.nav-item:hover {
   color: var(--hover-link-color);
 }
 
+header {
+  box-shadow: 1px 2px 1px;
+}
+
+/* Header Icons */
+header i {
+  font-size: 1.5rem;
+  color: var(--icon-color);
+}
+
 body {
-color: var(--font-color);
-font-family: var(--font-family), Arial, Helvetica, sans-serif;
+  color: var(--font-color);
+  font-family: var(--font-family), Arial, Helvetica, sans-serif;
 }
