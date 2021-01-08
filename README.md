@@ -13,11 +13,11 @@
     * [Requirements and Expectations](#requirements-and-expectations)
     * [Features & Functionalities](#features--functionalities)
     * [Dependencies, Languages and Resources](#dependencies-languages-and-resources)
-    
-## **User Experience (UX)** 
+
+## **User Experience (UX)**
 ### Project Goals
 ---
- * To create a website that gives insight into why the Alfa Romeo 4C will be a future classic and the history behind why it was built. 
+ * To create a website that gives insight into why the Alfa Romeo 4C will be a future classic and the history behind why it was built.
  * Clean easy navigation.
  * 5 pages of Contents.
  * Responsive on all devices.
@@ -28,8 +28,8 @@
  * Demonstrate Bootstrap skills.
  * Demonstrate native CSS skills.
  * To **communicate** to users about the story of the 4C and why it is different from modern day sports cars.
-    
-### User Goals 
+
+### User Goals
 ---
  * **Research** and **find information** about facts and colours the car can be configured with.
  * **find** a video which can be used to give an entertaining honest review on the car.
@@ -43,7 +43,7 @@
    * I **want** to know what type of **chassis** does the car have.
    * I **want** facts and relative details.
    * I **want** a **video/review** about the car.
-   * I may **need** to **contact** to ask for help on the car. 
+   * I may **need** to **contact** to ask for help on the car.
 ### Design Thoughts
 ---
 When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be famillar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also famillar I picked this through [Google Fonts](https://fonts.google.com/) for my font choices see [here](#website-font-choices) . I intend on giving the website an Alfa Romeo feel.
@@ -117,5 +117,6 @@ Here is the Home page wireframe:
 
 ### Testing
 ---
-I have only doing a small amount of testing so far but I have used Chrome Dev Tools alot by using the elements tab and mobile button to see how the header has interacted with mobile. I have opted to have two headers one that shows on Desktop and one which will show on mobile.
+I have only doing a small amount of testing so far but I have used Chrome Dev Tools a-lot by using the elements tab and mobile button to see how the header has interacted with mobile. I have opted to have two headers one that shows on Desktop and one which will show on mobile.
 
+Chrome Dev tools allowed me to create developments first to try and eradicate and bugs when code was deployed and pushed to my project. Chrome Dev tools isn't the only thing I have used to make sure my project is well organised and put together well. I use a IDE Code editor called Atom and with some packages installed such as beautify this code editor allows code to be written simply but also organised and formatted in a easy to read and proffesional way.
