@@ -120,3 +120,7 @@ Here is the Home page wireframe:
 I have only doing a small amount of testing so far but I have used Chrome Dev Tools a-lot by using the elements tab and mobile button to see how the header has interacted with mobile. I have opted to have two headers one that shows on Desktop and one which will show on mobile.
 
 Chrome Dev tools allowed me to create developments first to try and eradicate and bugs when code was deployed and pushed to my project. Chrome Dev tools isn't the only thing I have used to make sure my project is well organised and put together well. I use a IDE Code editor called Atom and with some packages installed such as beautify this code editor allows code to be written simply but also organised and formatted in a easy to read and professional way.
+
+### Bug fixing
+There are always bugs which you try to account for but may require deployment to a local development in order for you to see in practice how your code works I used a local preview and chrome Dev Tools to check on different screen sizes, console errors and to see if CSS was
+* Wrong Bootstrap styles applied for Mobile and Desktop navigation bars meant navbars was showing on wrong screen sizes
