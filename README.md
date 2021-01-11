@@ -46,7 +46,7 @@
    * I may **need** to **contact** to ask for help on the car.
 ### Design Thoughts
 ---
-When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be famillar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also famillar I picked this through [Google Fonts](https://fonts.google.com/) for my font choices see [here](#website-font-choices) . I intend on giving the website an Alfa Romeo feel.
+When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be familiar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also familiar I picked this through [Google Fonts](https://fonts.google.com/) for my font choices see [here](#website-font-choices) . I intend on giving the website an Alfa Romeo feel.
 
 #### Alfa Romeo Hex Colours:
 * I plan on using **#C22636** for icons, SVGS, borders.
@@ -55,7 +55,7 @@ When thinking about the **design** choices for this website I decided that going
 * I plan on using **1B2441** for the footer background to give some more Alfa Romeo feel with **#FFFFFF** to stand out.
 ![Website Colour Scheme](/wireframes/Alfa4CColourScheme.png "Website Colour Scheme Image")
 #### Website Font Choices
-The font's that I picked are because I feel like they have a modern and sleeck feel and will look right with the colours I have picked with the website. When implementing these font's I may find that they aren't what I want and could be subject to change. For boyd text and links I have picked [Dosis](https://fonts.google.com/specimen/Dosis) and for headings I chose [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed)
+The font's that I picked are because I feel like they have a modern and sleek feel and will look right with the colours I have picked with the website. When implementing these font's I may find that they aren't what I want and could be subject to change. For bold text and links I have picked [Dosis](https://fonts.google.com/specimen/Dosis) and for headings I chose [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed)
 ### Requirements and Expectations
 ---
 #### Requirements
@@ -85,7 +85,7 @@ The font's that I picked are because I feel like they have a modern and sleeck f
 * About Us Page
 ### Dependencies, languages and resources
 ---
-I will update this area as I add or remove dependecies from my project, these are what I plan to use.
+I will update this area as I add or remove dependencies from my project, these are what I plan to use.
 #### Dependencies
 * Google Fonts (Chosen Fonts from here)
 * Boostrap (Quick and easy to use framework which helps create a responsive website)
@@ -119,4 +119,4 @@ Here is the Home page wireframe:
 ---
 I have only doing a small amount of testing so far but I have used Chrome Dev Tools a-lot by using the elements tab and mobile button to see how the header has interacted with mobile. I have opted to have two headers one that shows on Desktop and one which will show on mobile.
 
-Chrome Dev tools allowed me to create developments first to try and eradicate and bugs when code was deployed and pushed to my project. Chrome Dev tools isn't the only thing I have used to make sure my project is well organised and put together well. I use a IDE Code editor called Atom and with some packages installed such as beautify this code editor allows code to be written simply but also organised and formatted in a easy to read and proffesional way.
+Chrome Dev tools allowed me to create developments first to try and eradicate and bugs when code was deployed and pushed to my project. Chrome Dev tools isn't the only thing I have used to make sure my project is well organised and put together well. I use a IDE Code editor called Atom and with some packages installed such as beautify this code editor allows code to be written simply but also organised and formatted in a easy to read and professional way.
