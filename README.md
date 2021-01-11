@@ -124,3 +124,6 @@ Chrome Dev tools allowed me to create developments first to try and eradicate an
 ### Bug fixing
 There are always bugs which you try to account for but may require deployment to a local development in order for you to see in practice how your code works I used a local preview and chrome Dev Tools to check on different screen sizes, console errors and to see if CSS was
 * Wrong Bootstrap styles applied for Mobile and Desktop navigation bars meant navbars was showing on wrong screen sizes
+
+### Recognition and credits
+* For my README header image thanks to [Alexander Schimmeck](https://unsplash.com/@alschim)
