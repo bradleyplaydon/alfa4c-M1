@@ -39,18 +39,23 @@
     <div class="container-fluid py-2 d-lg-none d-md-none">
       <div class="d-flex justify-content-around align-items-center">
         <div>
-          <a class=""><i class="fas fa-bars"></i></a>
+          <a  data-bs-toggle="collapse" href="#mobile-nav" role="button" aria-expanded="true" aria-controls="mobile-nav"><i class="fas fa-bars"></i></a>
         </div>
         <div class="text-center">
           <h1 class="heading h1"><a href="/">Alfa 4C</a></h1>
         </div>
         <div>
-          <a class=""><i class="fas fa-phone"></i></a>
+          <a href=""><i class="fas fa-phone"></i></a>
         </div>
       </div>
-      <div id="mobile-nav">
-
-      </div>
+    </div>
+    <div id="mobile-nav" class="collapse position-absolute w-100 bg-light">
+      <ul class="list-unstyled text-center">
+        <li><a href="/">Home</a></li>
+        <li><a href="/">About</a></li>
+        <li><a href="/">Contact</a></li>
+        <li><a href="/">Gallery</a></li>
+      </ul>
     </div>
   </header>
   <section class="slideshow">

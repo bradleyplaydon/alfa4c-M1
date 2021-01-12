@@ -39,6 +39,10 @@ a.nav-item:hover {
   color: var(--hover-link-color);
 }
 
+/* Mobile Navbar */
+#mobile-nav {
+ z-index: 1;
+}
 
 /* Header Icons */
 header i {
