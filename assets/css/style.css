@@ -6,6 +6,7 @@
     --font-family: Dosis, Arial, Helvetica, sans-serif;
     --font-color: #3a3a3a;
     --hover-link-color: #C22636;
+    --alfa-button-background: #C22636;
     --heading-font-family: 'Barlow Condensed', Arial, Helvetica, sans-serif;
     --heading-font-weight: 800;
     --heading-font-color: #C22636;
@@ -53,4 +54,9 @@ header i {
 body {
   color: var(--font-color);
   font-family: var(--font-family), Arial, Helvetica, sans-serif;
+}
+
+/* Buttons */
+a.btn {
+  background: var(--alfa-button-background);
 }
