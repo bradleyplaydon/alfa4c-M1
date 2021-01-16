@@ -85,7 +85,12 @@ The font's that I picked are because I feel like they have a modern and sleek fe
 * About Us Page
 ### Dependencies, languages and resources
 ---
-I will update this area as I add or remove dependencies from my project, these are what I plan to use.
+So far whilst coding my project the [Bootstrap docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/) have been essential to finding out the classes for changing margin, applying flex containers, mobile classes to show elements based upon screen width for implementing the navbar dropdown I recommend when using Bootstrap to search through there docs as there will most likely already be a class already defined in there somewhere.
+
+I have also referred to [W3Schools](https://www.w3schools.com/css/), [StackOverflow](https://stackoverflow.com/) and other forums for making the parallax section on the home page these are resources that come in handy no matter how skilled of a developer if there's something you're stuck on it helps to ask.
+
+Additionally I have also used Slack to help with my project as I encountered a problem with the license expiring for [Balsamiq](https://balsamiq.com/) which meant I couldn't edit my wireframes for my project but thanks to Slack I managed to resolve it.
+
 #### Dependencies
 * Google Fonts (Chosen Fonts from here)
 * Boostrap (Quick and easy to use framework which helps create a responsive website)
