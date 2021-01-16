@@ -60,3 +60,12 @@ body {
 a.btn {
   background: var(--alfa-button-background);
 }
+
+#parallax-home {
+  background-image: url("../images/alfa-4c-parallax.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
+}
