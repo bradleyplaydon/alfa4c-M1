@@ -75,6 +75,6 @@ footer {
   background: var(--footer-bg-color);
 }
 
-footer h2 {
+footer h2, footer a, footer p, footer strong {
   color: var(--footer-font-color);
 }
