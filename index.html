@@ -127,7 +127,7 @@
   </section>
   <footer>
     <!-- Desktop Footer -->
-    <div class="container py-4">
+    <div class="container py-4 d-none d-lg-block d-md-block">
       <div class="row">
         <div class="col-lg-10">
           <h2 class="text-center">Menu</h2>
@@ -152,6 +152,23 @@
       </div>
     </div>
     <!-- Desktop Footer End -->
+    <!-- Mobile Footer -->
+    <button class="btn text-white w-100 collapsed" data-bs-toggle="collapse" href="#footer-menu" role="button" aria-expanded="false" aria-controls="footer-menu">
+      <div class="container d-flex align-items-center justify-content-between">
+      <h2>Menu</h2>
+      <i id="plus" class="fas fa-plus"></i>
+      <i id="minus" class="fas fa-minus"></i>
+     </div>
+    </button>
+    <div id="footer-menu" class="w-100 collapse" style="">
+      <ul class="list-unstyled text-center">
+        <li><a href="/">Home</a></li>
+        <li><a href="/">About</a></li>
+        <li><a href="/">Contact</a></li>
+        <li><a href="/">Gallery</a></li>
+      </ul>
+    </div>
+    <!-- Mobile Footer End -->
     <div class="container-fluid px-5">
       <div class="row">
         <div class="col-lg-2">
