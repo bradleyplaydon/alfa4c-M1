@@ -70,6 +70,10 @@ a.btn {
   height: 300px;
 }
 
+.lightweight-bg {
+  background: linear-gradient(to top, rgba(245, 246, 252, 0.52), #000000),url("../images/carbon-fibre.jpg");
+}
+
 /* Footer styles */
 footer {
   background: var(--footer-bg-color);
