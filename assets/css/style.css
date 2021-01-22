@@ -88,6 +88,7 @@ a.btn {
 
 .bg-card-wrapper {
   min-height: 360px;
+  background-position: center;
 }
 
 @media screen and (max-width: 641px){
