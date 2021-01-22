@@ -91,6 +91,8 @@ I have also referred to [W3Schools](https://www.w3schools.com/css/), [StackOverf
 
 Additionally I have also used Slack to help with my project as I encountered a problem with the license expiring for [Balsamiq](https://balsamiq.com/) which meant I couldn't edit my wireframes for my project but thanks to Slack I managed to resolve it.
 
+For writing some of the content I have used my own thoughts and opinions around the car however for some facts and more statistical numbers I have used the [Alfa 4C](https://en.wikipedia.org/wiki/Alfa_Romeo_4C).
+
 #### Dependencies
 * Google Fonts (Chosen Fonts from here)
 * Boostrap (Quick and easy to use framework which helps create a responsive website)
