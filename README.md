@@ -13,6 +13,8 @@
     * [Requirements and Expectations](#requirements-and-expectations)
     * [Features & Functionalities](#features--functionalities)
     * [Dependencies, Languages and Resources](#dependencies-languages-and-resources)
+    * [Testing](#testing)
+    * [Recognition and credits](#recognition-and-credits)
 
 ## **User Experience (UX)**
 ### Project Goals
@@ -112,7 +114,7 @@ For writing some of the content I have used my own thoughts and opinions around 
 * Slack
 ### Wireframes
 ---
-I decided to use [Balsamiq Wireframes](https://balsamiq.com/) as the wireframing tool for my project this is because of the simplistic but easy to use software allows for wireframing projects quickly and easily. It offers a selection of icons which are great for demonstrating how the project would look on smaller screens. There are other software out there which can be used for Wireframing such as Adobe XD, Wireframe.cc and more. I decided to use Balsamiq on this project.
+I decided to use [Balsamiq Wireframes](https://balsamiq.com/) as the wireframing tool for my project this is because of the simplistic but easy to use software allows for wireframing projects quickly and easily. It offers a selection of icons which are great for demonstrating how the project woTestinguld look on smaller screens. There are other software out there which can be used for Wireframing such as Adobe XD, Wireframe.cc and more. I decided to use Balsamiq on this project.
 
 I should note as these are just wireframes that the final project may look different.  I have created a wireframe for each page Home, About, Contact and Gallery with a wireframe for each device Desktop, Mobile and Tablet.
 
