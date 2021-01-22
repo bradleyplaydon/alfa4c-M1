@@ -61,6 +61,11 @@ a.btn {
   background: var(--alfa-button-background);
 }
 
+/* Class created to round images to 35px; */
+.rounded-35 {
+  border-radius: 35px;
+}
+
 /* Parallax-home section */
 #parallax-home {
   background-image: url("../images/alfa-4c-parallax.jpg");

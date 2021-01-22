@@ -135,6 +135,7 @@ There are always bugs which you try to account for but may require deployment to
 * Wrong Bootstrap styles applied for Mobile and Desktop navigation bars meant navbars was showing on wrong screen sizes
 
 ### Recognition and credits
+---
 * For my README header image thanks to [Alexander Schimmeck](https://unsplash.com/@alschim)
 For images used through out my website thanks to:
 * Exotic image home page:  [Brandon Atchison](https://unsplash.com/@b_atchison98)
