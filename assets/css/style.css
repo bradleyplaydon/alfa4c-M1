@@ -61,6 +61,7 @@ a.btn {
   background: var(--alfa-button-background);
 }
 
+/* Parallax-home section */
 #parallax-home {
   background-image: url("../images/alfa-4c-parallax.jpg");
   background-size: cover;
@@ -96,6 +97,7 @@ a.btn {
     min-height: 350px;
   }
 }
+/* Card section end */
 
 /* Footer styles */
 footer {
