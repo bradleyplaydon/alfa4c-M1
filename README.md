@@ -19,7 +19,7 @@
 ---
  * To create a website that gives insight into why the Alfa Romeo 4C will be a future classic and the history behind why it was built.
  * Clean easy navigation.
- * 5 pages of Contents.
+ * 4 pages of Contents.
  * Responsive on all devices.
  * Lightweight but good quality images maybe use webp for speed.
 ### Website Owner Goals
@@ -95,7 +95,7 @@ For writing some of the content I have used my own thoughts and opinions around 
 
 #### Dependencies
 * Google Fonts (Chosen Fonts from here)
-* Boostrap (Quick and easy to use framework which helps create a responsive website)
+* Bootstrap (Quick and easy to use framework which helps create a responsive website)
 
 #### Languages/Softwares
 * HTML
