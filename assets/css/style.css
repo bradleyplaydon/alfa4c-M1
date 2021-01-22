@@ -70,8 +70,30 @@ a.btn {
   height: 300px;
 }
 
+/* Cards section */
 .lightweight-bg {
   background: linear-gradient(to top, rgba(245, 246, 252, 0.52), #000000),url("../images/carbon-fibre.jpg");
+  background-size: cover;
+}
+
+.elegant-bg {
+  background: linear-gradient(to top, rgba(245, 246, 252, 0.52), #000000),url("../images/alfa-4c-elegant.jpg");
+  background-size: cover;
+}
+
+.exotic-bg {
+  background: linear-gradient(to top, rgba(245, 246, 252, 0.52), #000000),url("../images/exotic-image.jpg");
+  background-size: cover;
+}
+
+.bg-card-wrapper {
+  min-height: 360px;
+}
+
+@media screen and (max-width: 641px){
+  .bg-card-wrapper {
+    min-height: 350px;
+  }
 }
 
 /* Footer styles */
