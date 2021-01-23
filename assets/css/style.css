@@ -120,3 +120,9 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
 .mobile-footer {
   border-bottom: 1px solid white;
 }
+
+.socials i {
+  font-size: 25px;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
