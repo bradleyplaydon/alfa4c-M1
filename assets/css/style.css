@@ -51,6 +51,12 @@ a:hover, a.nav-item:hover {
   color: var(--hover-link-color);
 }
 
+a.active {
+  border-bottom: 1px solid;
+  color: var(--hover-link-color);
+  font-weight: bold;
+}
+
 /* Mobile Navbar */
 #mobile-nav {
  z-index: 1;
