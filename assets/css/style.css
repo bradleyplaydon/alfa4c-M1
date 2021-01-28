@@ -12,6 +12,7 @@
     --heading-font-color: #C22636;
     --footer-font-color: #FFFFFF;
     --footer-bg-color: #1B2441;
+    --bg-alfa-blue: #1B2441;
     --icon-color: #C22636;
 }
 
@@ -146,4 +147,8 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
   font-size: 25px;
   padding-left: .5rem;
   padding-right: .5rem;
+}
+
+.bg-alfa-blue {
+  background: var(--bg-alfa-blue);
 }
