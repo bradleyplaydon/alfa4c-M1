@@ -32,7 +32,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1.heading a {
   color: var(--heading-font-color);
-  font-family: var(--font-family);
   font-weight: bold;
   text-transform: uppercase;
   text-decoration: none;
