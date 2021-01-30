@@ -39,7 +39,7 @@
     <div class="container-fluid py-2 d-lg-none d-md-none">
       <div class="d-flex justify-content-around align-items-center">
         <div>
-          <button class="btn" data-bs-toggle="collapse" href="#mobile-nav" role="button" aria-expanded="true" aria-controls="mobile-nav"><i class="fas fa-bars"></i></button>
+          <button class="btn mobile-btn" data-bs-toggle="collapse" href="#mobile-nav" role="button" aria-expanded="false" aria-controls="mobile-nav"><i class="fas fa-bars hamburger"></i><i class="fas fa-times close-hamburger"></i></button>
         </div>
         <div class="text-center">
           <h1 class="heading h1"><a href="#">Alfa 4C</a></h1>
@@ -50,11 +50,11 @@
       </div>
     </div>
     <div id="mobile-nav" class="collapse position-absolute w-100 bg-light">
-      <ul class="list-unstyled text-center">
-        <li><a href="#" class="active">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="/">Contact</a></li>
-        <li><a href="/">Gallery</a></li>
+      <ul class="list-unstyled list-group text-center">
+        <li class="list-group-item"><a href="#" class="active">Home</a></li>
+        <li class="list-group-item"><a href="about.html">About</a></li>
+        <li class="list-group-item"><a href="/">Contact</a></li>
+        <li class="list-group-item"><a href="/">Gallery</a></li>
       </ul>
     </div>
   </header>
