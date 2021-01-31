@@ -166,6 +166,14 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
   padding-top: 100%;
 }
 
+.circle-text {
+ min-height: 60px;
+}
+
 .giallo415 {
   background: #d9ac32;
+}
+
+.rosso-alfa {
+  background: #aa1b0e;
 }
