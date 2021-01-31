@@ -160,6 +160,12 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
 }
 
 /* Alfa 4C About us colour options */
+
+.responsive-circle {
+  height: auto;
+  padding-top: 100%;
+}
+
 .giallo415 {
   background: #d9ac32;
 }
