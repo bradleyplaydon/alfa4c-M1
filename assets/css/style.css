@@ -158,3 +158,8 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
 .bg-alfa-blue {
   background: var(--bg-alfa-blue);
 }
+
+/* Alfa 4C About us colour options */
+.giallo415 {
+  background: #d9ac32;
+}
