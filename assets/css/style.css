@@ -85,6 +85,10 @@ a.btn {
   background: var(--alfa-button-background);
 }
 
+.btn-red {
+  background: var(--alfa-button-background);
+}
+
 /* Class created to round images to 35px; */
 .rounded-35 {
   border-radius: 35px;
