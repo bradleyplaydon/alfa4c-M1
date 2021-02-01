@@ -134,6 +134,8 @@ I have only doing a small amount of testing so far but I have used Chrome Dev To
 
 Chrome Dev tools allowed me to create developments first to try and eradicate and bugs when code was deployed and pushed to my project. Chrome Dev tools isn't the only thing I have used to make sure my project is well organised and put together well. I use a IDE Code editor called Atom and with some packages installed such as beautify this code editor allows code to be written simply but also organised and formatted in a easy to read and professional way.
 
+* Dev Tools allowed me to minimize bugs and to make my deployed code the best it could be, there are scenarios however where it is beneficial to also use a device such as a mobile instead of just setting the window to a set size this is because browsers work differently on other devices for example I experienced an issue where the parallax doesn't 
+
 * [W3 HTML5 Validator](https://validator.w3.org/) I have used this to identify areas within documents where I may of accidentally missed an alt tag. This validator will flag up anything that may be yield negative results to your website a few things flagged up for mine such as:
   * Href attribute not allowed for button
   * The button role is not necessary for button elements
