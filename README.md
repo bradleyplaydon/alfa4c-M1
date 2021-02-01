@@ -104,12 +104,16 @@ For writing some of the content I have used my own thoughts and opinions around 
 * CSS
 * JS
 * JQuery
+* Font Awesome
 * Popper
 * Git
 #### Resources
 * Balsamiq Wireframes
 * Canva
 * Unsplash (For uncopyrighted imagery)
+* Facebook 4C Owners club pages
+* Pexels
+* Pixibay
 * W3 Schools
 * Slack
 ### Wireframes
