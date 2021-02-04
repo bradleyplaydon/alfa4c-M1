@@ -179,8 +179,10 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
   min-width: 110px;
 }
 
+@media screen and (min-width: 641px){
 .circle-text {
  min-height: 60px;
+ }
 }
 
 .giallo415 {
