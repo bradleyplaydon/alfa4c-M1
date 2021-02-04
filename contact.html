@@ -69,15 +69,16 @@
       <div class="row mt-5 mb-5">
         <div class="col-12 col-md-5">
           <div class="card p-5">
+            <p>Please fill in the required fields marked with asterisk</p>
             <form>
-              <input class="form-control mt-4" type="text" name="name" placeholder="Name" required>
-              <input class="form-control mt-4" type="email" name="email" placeholder="Email Address" required>
-              <input class="form-control mt-4" type="text" name="message" placeholder="Message" required>
+              <input class="form-control mt-4" type="text" name="name" placeholder="Name *" required>
+              <input class="form-control mt-4" type="email" name="email" placeholder="Email Address *" required>
+              <textarea class="form-control mt-4 p-3" type="text" name="message" placeholder="Message *" required></textarea>
               <button class="btn btn-red text-white mt-4" type="submit">Submit Message</button>
             </form>
           </div>
         </div>
-        <div class="col-12 offset-md-2 col-md-5">
+        <div class="col-12 offset-md-2 col-md-5 mt-4 mt-lg-0">
           <div class="card p-5">
             <a class="mb-2" href="mailto:bplaydon@gmail.com"><i class="far fa-envelope pe-3"></i>Email Me</a>
             <a href="#"><i class="fas fa-phone pe-3"></i>01200 000 000</a>
