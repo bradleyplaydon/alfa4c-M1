@@ -157,12 +157,14 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
   padding: 3px;
 }
 
+/* Sets font size of icons */
 .socials i {
   font-size: 25px;
   padding-left: .5rem;
   padding-right: .5rem;
 }
 
+/* Blue background to be used on containers this is used on statistics part of about page */
 .bg-alfa-blue {
   background: var(--bg-alfa-blue);
 }
@@ -210,3 +212,5 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
 .white-4c {
   background: #f0f1ef;
 }
+
+/* Alfa 4C About us colour options end */
