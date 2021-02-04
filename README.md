@@ -157,5 +157,9 @@ There are always bugs which you try to account for but may require deployment to
 ---
 * For my README header image thanks to [Alexander Schimmeck](https://unsplash.com/@alschim)
 For images used through out my website thanks to:
+* Slideshow home page image: [Rolf Vandewal](https://pixabay.com/users/rolfvandewal-3358464/)
 * Exotic image home page:  [Brandon Atchison](https://unsplash.com/@b_atchison98)
 * Carbon fibre lightweight image home page [Struffel Productions](https://pixabay.com/users/struffelproductions-589546/)
+* Elegant home page image [Nicolas Peyrol](https://unsplash.com/photos/uZZ_2h_dC6Q)
+* About Alfa Romeo Caliper/Alloy image [Adam Niescioruk]()
+* About Alfa Romeo Carbon Steering wheel image [Łukasz Nieścioruk](https://unsplash.com/@luki90pl)
