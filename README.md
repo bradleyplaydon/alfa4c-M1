@@ -73,7 +73,7 @@ The font's that I picked are because I feel like they have a modern and sleek fe
 * Relevant facts and figures and not that have the option to go into more depth with a read me button.
 * Easy intuitive navigation and design.
 * A responsive website for mobile devices, desktop and tablet.
-* Contact form fields work and have validate correctly.
+* Contact form fields work and validate correctly.
 * 4C Brochure opens in a new tab.
 
 ### Features & Functionalities
@@ -100,6 +100,7 @@ For writing some of the content I have used my own thoughts and opinions around 
 #### Dependencies
 * Google Fonts (Chosen Fonts from here)
 * Bootstrap (Quick and easy to use framework which helps create a responsive website)
+* Font Awesome
 
 #### Languages/Softwares
 * HTML
