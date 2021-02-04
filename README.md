@@ -131,6 +131,7 @@ Here is the Home page wireframe:
 
 ![Wireframes](/wireframes/Desktop_Home.png)
 
+
 ### Testing
 ---
 I have only doing a small amount of testing so far but I have used Chrome Dev Tools a-lot by using the elements tab and mobile button to see how the header has interacted with mobile. I have opted to have two headers one that shows on Desktop and one which will show on mobile.
@@ -140,6 +141,8 @@ Chrome Dev tools allowed me to create developments first to try and eradicate an
 * Dev Tools allowed me to minimize bugs and to make my deployed code the best it could be, there are scenarios however where it is beneficial to also use a device such as a mobile instead of just setting the window to a set size this is because browsers work differently on other devices for example I experienced an issue where the parallax doesn't.
 
 * For bugs and problems I encountered whilst testing through Dev Tools I stored expected outcomes, actual outcomes and unexpected outcomes inside a spreadsheet which I could go through and tick off once I was happy with the bug/problem.
+
+* I have tried to use a few different browsers like Google Chrome, Safari, Edge to see how my website acted as there can be changes to the way certain elements work this allowed me to eradicate any errors or bugs which I wouldn't have seen if I only used one browser.
 
 * [W3 HTML5 Validator](https://validator.w3.org/) I have used this to identify areas within documents where I may of accidentally missed an alt tag. This validator will flag up anything that may be yield negative results to your website a few things flagged up for mine such as:
   * Href attribute not allowed for button
