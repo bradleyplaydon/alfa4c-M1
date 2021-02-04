@@ -149,6 +149,8 @@ Chrome Dev tools allowed me to create developments first to try and eradicate an
   * The button role is not necessary for button elements
   * Stray end tag (This can be fixed by using beautify)
 
+* I have used [CSS Validator](https://jigsaw.w3.org/css-validator/validator) to validate my CSS.
+
 ### Bug fixing
 There are always bugs which you try to account for but may require deployment to a local development in order for you to see in practice how your code works I used a local preview and chrome Dev Tools to check on different screen sizes, console errors and to see if CSS was
 * Wrong Bootstrap styles applied for Mobile and Desktop navigation bars meant navbars was showing on wrong screen sizes
