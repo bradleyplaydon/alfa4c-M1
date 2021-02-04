@@ -50,6 +50,8 @@
 ---
 When thinking about the **design** choices for this website I decided that going for the **Alfa Romeo** hex colours would be a good idea so it would be familiar to an Alfa Romeo fan but I decided to go with a different type of **font** to Alfa to make it **unique** but also familiar I picked this through [Google Fonts](https://fonts.google.com/) for my font choices see [here](#website-font-choices) . I intend on giving the website an Alfa Romeo feel.
 
+* When designing and building the website there were elements and parts which made sense in my head and on the wireframes however didn't maybe work as well when in HTML therefore I decided to change some elements to suit the website better.
+
 #### Alfa Romeo Hex Colours:
 * I plan on using **#C22636** for icons, SVGS, borders.
 * I plan on using **#3a3a4a** for the text this will be easy to see against a white background.
