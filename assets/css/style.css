@@ -214,3 +214,7 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
 }
 
 /* Alfa 4C About us colour options end */
+
+.socials-gallery i {
+  font-size: 3em;
+}
