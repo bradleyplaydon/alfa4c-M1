@@ -149,10 +149,6 @@ button.btn.text-white.w-100.collapsed[aria-expanded=false] #minus, button.btn.te
   display: none;
 }
 
-.mobile-footer {
-  border-bottom: 1px solid white;
-}
-
 #footer-menu ul li {
   padding: 3px;
 }
